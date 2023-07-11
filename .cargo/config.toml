@@ -1,0 +1,7 @@
+[env]
+WORD_LIST_PATH = "./data/word_list.txt"
+WORD_TABLE_FILENAME = "word_table.rs"
+SEGMENT_TABLE_FILENAME = "segment_table.rs"
+
+SEGMENT_SIZE = "3"
+DIFFICULTY_LIMITS = "5,20,100"
